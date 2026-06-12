@@ -19,13 +19,10 @@ I'm a Computer Science student at Kathmandu University passionate about backend 
 
 🌱 Currently Learning:
 - Machine Learning
-- Deep Learning
 - Data Structures and Algorithms
 - System Design
 - Advanced Backend Development
 
-⚡ Fun Fact:
-I enjoy building projects that combine software engineering with real-world applications.
 
 ---
 
@@ -81,51 +78,6 @@ I enjoy building projects that combine software engineering with real-world appl
 
 ---
 
-# 🚀 Featured Projects
-
-## 💬 P2P Chat Application
-
-A peer-to-peer real-time chat application built using Python and TCP/IP socket programming.
-
-### Features
-
-- Peer-to-peer communication
-- Multi-user sessions
-- Reliable TCP/IP messaging
-- Connection management
-- Graceful disconnection handling
-
-**Tech Stack:**
-
-Python • Socket Programming • TCP/IP
-
----
-
-## 📅 Event Management System
-
-A desktop application for managing events, participants, and registrations.
-
-### Features
-
-- Event creation
-- Participant registration
-- Search and filtering
-- Report generation
-- PostgreSQL database integration
-
-**Tech Stack:**
-
-JavaScript • PostgreSQL • Docker
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunitishrestha&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunitishrestha&layout=compact)
-
----
 
 # 🎯 Goals for 2026
 
